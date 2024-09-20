@@ -1,7 +1,7 @@
 # UI/UX Project - NookBook
 
 ## Who made this
-- Kaleb Jubar
+- [Kaleb Jubar](https://github.com/kjubar-fs)
 - [Aggrey Nhiwatiwa](https://github.com/AggreyNhiwatiwa)
 - Samet Berk Özdemir
 - [Livio Reinoso](https://github.com/LivioDR)
